@@ -3,8 +3,8 @@ library(ggplot2)
 #read the data file
 fb = read.csv('./pseudo_facebook.tsv', sep='\t')
 
-#show columns
-head(fb)
+
+
 
 #plot the histogram
 ggplot(aes(x=dob_day), data=fb) + 
