@@ -1,14 +1,12 @@
 ### Date created
-Include the date you created this project and README file.
+12-8-2020
 
 ### Project Title
-Replace the Project Title
+refactoring the main project
 
-### Description
-Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+R Model
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
