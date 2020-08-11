@@ -12,5 +12,3 @@ R Model
 
 ### Credits
 bikeshare
-
-the refactoring checked the model
